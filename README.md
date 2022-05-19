@@ -11,7 +11,8 @@
 <a name="descripton"></a>
 ## Description
 
-In this workshop, sponsored by The Swedish EuroCC Hub for High-Performance Computing, we started by overviewing the basics of Docker and Singularity. Then, we used resources from the Slovenian supercomputer, Vega, to do distributed training using TensorFlow and Horovod frameworks. Moreover, we also used Docker and Singularity containers in conjunction with TensorFlow and Horovod to upscale an AI app.
+In this workshop, sponsored by The Swedish EuroCC Hub for High-Performance Computing, we started by overviewing the basics of Docker and Singularity. Then, we used resources from the Slovenian supercomputer, Vega, to do distributed training using TensorFlow and Horovod frameworks. 
+Moreover, we also used Docker and Singularity containers in conjunction with TensorFlow and Horovod to upscale an AI app.
 
 Artificial Intelligence (AI) has become a foundational building block of our modern world. Accordingly, a vast effort has been put into bringing AI to researchers and practitioners of a wide range of fields. Nonetheless, the computationally intensive task of training an AI increasingly requires more computational power than what our laptops and PCs can offer. Therefore, the ability to develop and train a neural network on large clusters seems imperative. This workshop teaches us how to scale an AI-powered applications in large clusters, i.e., supercomputers.
 
