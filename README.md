@@ -71,6 +71,4 @@ Detailed instructions can be found on the [Vega website](https://doc.vega.izum.s
 
 <a name="certificate"></a>
 ## Certificate
-The certificate can be found here:
-
-[Certificate](https://github.com/HROlive/Upscaling-AI-Worflows/blob/main/images/certificate-hugo-oliveira.pdf)
+The certificate can be found [here](https://github.com/HROlive/Upscaling-AI-Worflows/blob/main/images/certificate-hugo-oliveira.pdf).
