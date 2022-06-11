@@ -23,7 +23,7 @@ The outcomes of the workshop are:
 > - Upscale the transfer learning of a containerized NLP model
 
 <a name="instructions"></a>
-## Dependencies
+## Instructions
 
 All necessary information and links for the workshop, QA, exercises, tutorials, etc, can be found the the [workshop website](https://hackmd.io/@enccs/upscaling-april2022)
 
