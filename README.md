@@ -67,7 +67,7 @@ Open in your browser (port 9999 should match what you selected in the ssh-tunnel
 http://localhost:9999/
 ```
 
-Detailed instrocutions can be found on the [Vega website](https://doc.vega.izum.si/jupyter/).
+Detailed instructions can be found on the [Vega website](https://doc.vega.izum.si/jupyter/).
 
 <a name="certificate"></a>
 ## Certificate
