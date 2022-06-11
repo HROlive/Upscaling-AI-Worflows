@@ -25,7 +25,7 @@ The outcomes of the workshop are:
 <a name="instructions"></a>
 ## Instructions
 
-All necessary information and links for the workshop, QA, exercises, tutorials, etc, can be found the the [workshop website](https://hackmd.io/@enccs/upscaling-april2022)
+All necessary information and links for the workshop, QA, exercises, tutorials, etc, can be found in the [workshop website](https://hackmd.io/@enccs/upscaling-april2022).
 
 <a name="installation"></a>
 ## Getting access to HPC resources
