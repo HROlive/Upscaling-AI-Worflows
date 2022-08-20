@@ -1,5 +1,3 @@
-# Upscaling AI Worflows
-
 ![Workshop](images/upscaling-ai-workflows.jpg)
 
 ## Table of Contents
